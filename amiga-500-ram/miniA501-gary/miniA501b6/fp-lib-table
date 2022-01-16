@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name miniA501b6)(type KiCad)(uri "$(KIPRJMOD)/miniA501b6.pretty")(options "")(descr ""))
+)
